@@ -1,2 +1,2 @@
 # My-Vim
-# My-Vim
+# Information see vimconfig/readme.txt
